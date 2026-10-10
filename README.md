@@ -55,3 +55,5 @@ npm run dev
 - Backend: Render/Railway
 - Frontend: Vercel
 - Database: Cloud PostgreSQL
+Design and developed by
+HIMANSU NAYAK 
